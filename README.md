@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <
+    <title> This is a title </title>
   </head>
   <body>
     <h1> This is a heading </h1>
